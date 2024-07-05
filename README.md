@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Chidiogo</h1>
 <h3 align="center">A reflective Data Analyst/Researcher inspired by complexities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chidiogo-ezeozue&label=Profile%20views&color=0e75b6&style=flat" alt="chidiogo-ezeozue" /> </p>
 
 - 📝 I write interesting articles on [https://medium.com/@chidiogoezeozue](https://medium.com/@chidiogoezeozue)
 
